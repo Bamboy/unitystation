@@ -23,7 +23,7 @@ public class SpriteHandler : MonoBehaviour
 	public class SpriteInfo
 	{
 		public Sprite sprite;
-		public float waitTime; 
+		public float waitTime;
 	}
 
 	private SpriteRenderer spriteRenderer;
